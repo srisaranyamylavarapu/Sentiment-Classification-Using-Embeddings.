@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+sentence-transformers
+matplotlib
+seaborn
+nltk
+wordcloud
+kagglehub
